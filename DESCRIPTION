@@ -7,5 +7,6 @@ Depends: R (>= 3.4.3)
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
-Imports: beepr
+Imports: beepr,
+    later
 RoxygenNote: 6.0.1
