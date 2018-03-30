@@ -1,8 +1,8 @@
 Package: moanr
-Title: What the Package Does (one line, title case)
+Title: Markov Ordinary Augmented Network in R
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: person("Datathon", "BR", email = "data@thon.br", role = c("aut", "cre"))
+Description: Adjusts Markov Ordinary Augmented Netword Model in R using least squares mixed model.
 Depends: R (>= 3.4.2)
 License: MIT + file LICENSE
 Encoding: UTF-8
